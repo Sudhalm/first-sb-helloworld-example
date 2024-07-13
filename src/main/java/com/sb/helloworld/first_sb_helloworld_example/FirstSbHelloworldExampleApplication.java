@@ -13,6 +13,7 @@ public class FirstSbHelloworldExampleApplication {
 	public class  FirstSbHelloWorldExampleApplicationTests {
 		public static void main(String[] args) {
 			System.out.println("this is the first spring boot application");
+			System.out.println("first github commit");
 		}
 	}
 }
