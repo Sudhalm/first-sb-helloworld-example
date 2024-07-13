@@ -1,0 +1,3 @@
+spring.application.name=first-sb-helloworld-example
+
+server.port= 7001
